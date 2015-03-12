@@ -1,0 +1,29 @@
+.aerTableWrapperClass,.confidenceTableWrapperClass,
+.userContributionTableWrapperClass,.miTableWrapperClass{ 
+	height:300px;overflow-y: scroll;
+}
+
+table {
+	table-layout: fixed; 
+}
+table th, table td { 
+	overflow: hidden; 
+}
+table thead {
+	background-color: #43adea; color: white;
+}
+i.unselected{
+	display: none;
+}
+
+table tr{
+	cursor:pointer;
+}
+
+body .modal{
+	width: 650px;
+}
+
+.selected{
+	display: block;
+}

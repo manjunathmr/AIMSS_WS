@@ -1,0 +1,8 @@
+#-------------------------------------------------------------------------------
+# rd properties for QA Environment
+#-------------------------------------------------------------------------------
+ENVIRONMENT=qa
+
+# rd Environment variables
+IMAGE_LOCATION=/home/mshenoy/webapps/ROOT/
+CONVERT_SCRIPT_LOCATION=/usr/local/bin/convert

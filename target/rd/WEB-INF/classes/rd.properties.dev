@@ -1,0 +1,9 @@
+#-------------------------------------------------------------------------------
+# rd properties for dev Environment
+#-------------------------------------------------------------------------------
+ENVIRONMENT=dev
+
+# rd Environment variables
+#IMAGE_LOCATION=/Users/nemo/tools/tomcat_7.0.27/webapps/ROOT/
+IMAGE_LOCATION=/Volumes/mshenoyHD/Work/root/tomcatNemo/webapps/ROOT/
+CONVERT_SCRIPT_LOCATION=convert

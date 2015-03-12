@@ -1,0 +1,53 @@
+body{
+    background:url('../images/light_toast.png');
+    margin-left: 200px;
+}
+
+.loading{
+	background: url("../images/loading_spinner.gif") repeat scroll 0 -20px transparent;
+	width: 60px;
+	height: 22px;
+	float: right;
+}
+
+.fileNameContainer
+{
+	width: 225px;
+}
+
+.responseTxt {
+	float: left;
+	width: 500px;
+}
+
+.whitespace{
+	white-space: pre;
+}
+.uploadedImage {
+	width: 200px;
+	height: 150px;
+}
+
+.fileLink{
+	float: left;
+	color: blue;
+	width: 200px;
+	height: 170px;
+	color: blue;
+}
+
+#responseData{
+	margin: 5px;
+}
+
+.inputImg{
+	float:right;
+	margin:5px;
+	border: 6px double #747474;
+}
+
+#pickfiles{
+	margin-right: 70px;
+}
+
+.ui-progressbar .ui-progressbar-value { background-image: url(../images/ui-bg_diagonals-thick_80_62c462_40x40.png); }
